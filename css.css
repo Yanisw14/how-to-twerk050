@@ -1,0 +1,20 @@
+h2 {
+		color: blue;
+		font-weight: bold;
+		text-align: center;
+	} 
+
+   
+  <meta charset="utf-8">
+  <title>0_magazin_0</title>
+   a.rollover {
+    background: url(images/12969830_13769318_1000.jpg); 
+    display: block; 
+    width: 196px; 
+    height: 183px; 
+   }
+   a.rollover:hover {
+    background: url(images/12969830_13769329_1000.jpg); 
+   }
+  <p><a href="#" class="rollover"> </a></p>
+  
